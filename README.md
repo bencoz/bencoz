@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/bencoz/bencoz/master/logo_black.png)
+![](https://raw.githubusercontent.com/bencoz/bencoz/master/facebook_cover_photo_2.png)
 
 ### Languages
 
