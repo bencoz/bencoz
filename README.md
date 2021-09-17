@@ -8,7 +8,7 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![Kotlin](https://img.shields.io/badge/Kotlin-000?&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-000?&logo=kotlin&logoColor=0095D5)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 
@@ -20,5 +20,5 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![React Native](https://img.shields.io/badge/React_Native-000?&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-000?&logo=android&logoColor=white)
-![Mongo](https://img.shields.io/badge/MongoDB-000?&logo=mongodb&logoColor=white)
+![Android](https://img.shields.io/badge/Android-000?&logo=android&logoColor=3DDC84)
+![Mongo](https://img.shields.io/badge/MongoDB-000?&logo=mongodb&logoColor=4EA94B)
