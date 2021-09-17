@@ -15,7 +15,7 @@
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-000?&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-000?&logo=microsoft-azure&logoColor=0089D6)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
