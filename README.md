@@ -1,5 +1,9 @@
 ![](https://raw.githubusercontent.com/bencoz/bencoz/master/facebook_cover_photo_2.png)
 
+Solution Architect in a GenAI group — building internal developer platforms for humans and agents, with a security-first bent, plus the education and frameworks that get teams actually using them.
+
+Android native → backend & infra → full-stack → enterprise Java at scale → NLP research → GenAI platforms. The badges below are the receipts.
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
